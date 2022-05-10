@@ -10,3 +10,7 @@ document.write("Success is not final," //writing out a quote by winston churchil
 + "Failure is not fatal," //usiing the + operator to concatenate the variables together
 + "It is the courage to continue that counts"
 + "-Winston S Churhill");
+
+function myfunction() {
+    alert('Hello!');
+}
