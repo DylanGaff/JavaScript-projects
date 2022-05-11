@@ -75,3 +75,6 @@ function notfunc2() {
     document.getElementById('Yea').innerHTML = !(5 < 10);
 }
 
+var i = "ten"
+var j = 10
+document.write(i + j);s
