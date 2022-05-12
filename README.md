@@ -1,3 +1,3 @@
 # JavaScript-projects
 
-This text file ill contain what projects are in this respitory.
+This text file will contain what projects are in this respitory.
