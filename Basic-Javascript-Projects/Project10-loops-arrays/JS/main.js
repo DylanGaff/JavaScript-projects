@@ -51,14 +51,14 @@ document.getElementById('Dogdes').innerHTML = dog.description();
 
 let text = "";
 for (let x = 0; x < 20; x++) {
-    if (x === 7) {break; }
+    if (x === 7) {break; }//breaks out of the loop at 6
     text += "The number is" + x + '<br>';
 }
 document.getElementById('broke').innerHTML = text;
 
 let txt = "";
 for (let x = 0; x < 20; x++) {
-    if (x === 7) {continue; }
+    if (x === 7) {continue; }//skips over the specified number and continues the loop
     txt += "The number is" + x + '<br>';
 }
 document.getElementById('cont').innerHTML = txt;
